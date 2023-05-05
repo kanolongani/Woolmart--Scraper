@@ -53,10 +53,10 @@ for element in all_prize:
 
 
 mydb = mysql.connector.connect(
-  host="sql12.freemysqlhosting.net",
-  user="sql12608022",
-  password="qA4fyVCq8T",
-  database="sql12608022"
+  host="",
+  user="",
+  password="",
+  database=""
 )
 
 mycursor = mydb.cursor()
